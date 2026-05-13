@@ -3,7 +3,7 @@
 **Publisher:** SindhiLanguage.org  
 **Website:** https://sindhilanguage.org/  
 **Prepared and curated by:** Amar Fayaz Buriro (امر فياض ٻرڙو)
-
+https://huggingface.co/datasets/SindhiLanguageorg/Sindhi-Open-Lexicon
 ## Overview
 
 This is a developer-ready and AI-ready master lexical dataset for the Sindhi language.  
